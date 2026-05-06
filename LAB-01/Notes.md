@@ -1,6 +1,7 @@
 # Lab 1: Utils
 
-## How does Atoi work?
+## Sleep
+### How does Atoi work?
 
 ```c
 int
@@ -21,3 +22,11 @@ Imagine s is "25". Then here's how it works:
 But here's the catch. `*s` returns `'2'` which is a char. So when it's added to a number (10*n), the compiler converts `'2'` to a number implicitly. `'2'` is `50` in ascii table. That's why we subtract `'0'` from the result, to even out this `50` thing. In fact, The ascii for `'0'` is `48`, so subtracting it from `50` will leave us `2`. 
 \
 What is `++` for? It moves cursor to the next character in `s`. We could do it in the next line but that's how it's done.
+
+## Ping-Pong
+buffer for `read()` and `write()` is an `array of char`.
+
+```c
+char buff[1];
+read(0, buff, sizeof(buff))
+```

@@ -41,3 +41,4 @@ Let's do our first lab
 
     - [X] [My Notes](./LAB-01/Notes.md)
     - [X] sleep
+    - [X] pingpong

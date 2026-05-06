@@ -38,3 +38,6 @@ Let's do our first lab
 
     - [X] Clone git://g.csail.mit.edu/xv6-labs-2021
         - [X] Had to add `CFLAGS += -Wno-error=infinite-recursion` and `CFLAGS +=-Wno-incompatible-pointer-types` to makefile to compile.
+
+    - [X] [My Notes](./LAB-01/Notes.md)
+    - [X] sleep

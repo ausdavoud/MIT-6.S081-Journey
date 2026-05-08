@@ -30,3 +30,10 @@ buffer for `read()` and `write()` is an `array of char`.
 char buff[1];
 read(0, buff, sizeof(buff))
 ```
+
+## Primes
+`sizeof()` is a kernel built-in. Hence, we need not any `#include`.
+
+Fork, Close: The parent should fork a new child, and then close the pipe. Otherwise (closing before fork) will hand a closed pipe to the child.
+
+Both parent and child should exit `lp[0]` (used for writing data), in order for `read()` to return `0`.

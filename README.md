@@ -40,5 +40,9 @@ Let's do our first lab
         - [X] Had to add `CFLAGS += -Wno-error=infinite-recursion` and `CFLAGS +=-Wno-incompatible-pointer-types` to makefile to compile.
 
     - [X] [My Notes](./LAB-01/Notes.md)
-    - [X] sleep
-    - [X] pingpong
+    - [X] [sleep](./LAB-01/sleep.c)
+    - [X] [pingpong](./LAB-01/pingpong.c)
+    - [X] [primes](./LAB-01/primes.c)
+        - [X] [Nik's answer for making .nanorc work on mac](https://stackoverflow.com/questions/73150633/nano-settings-are-not-adopted-from-nanorc-file)
+        - [ ] optimize code
+        

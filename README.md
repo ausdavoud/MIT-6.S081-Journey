@@ -44,5 +44,4 @@ Let's do our first lab
     - [X] [pingpong](./LAB-01/pingpong.c)
     - [X] [primes](./LAB-01/primes.c)
         - [X] [Nik's answer for making .nanorc work on mac](https://stackoverflow.com/questions/73150633/nano-settings-are-not-adopted-from-nanorc-file)
-        - [ ] optimize code
-        
+        - [X] optimize code

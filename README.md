@@ -45,3 +45,6 @@ Let's do our first lab
     - [X] [primes](./LAB-01/primes.c)
         - [X] [Nik's answer for making .nanorc work on mac](https://stackoverflow.com/questions/73150633/nano-settings-are-not-adopted-from-nanorc-file)
         - [X] optimize code
+    - [X] find
+        - [X] C book, Section 5.5
+        - [X] Suffer untold pain and misery

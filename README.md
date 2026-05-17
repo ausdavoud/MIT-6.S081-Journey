@@ -48,3 +48,8 @@ Let's do our first lab
     - [X] find
         - [X] C book, Section 5.5
         - [X] Suffer untold pain and misery
+    - [X] [xargs](./LAB-01/xargs.c)
+        - [X] Hit my head to the wall
+        - [X] Clean it up!
+
+- [X] [Lecture question (a random question)](./LEC-01/sq1.txt)

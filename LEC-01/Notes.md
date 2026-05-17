@@ -28,7 +28,7 @@ Here it is
 int fd = open("/tmp/xyz, O_CREAT|O_RWONLY");
 unlink("tmp/xyz")
 ```
-Once unlinked, it becomes invisible to everyone, as if it were deleted (as a matter of fact, `rm` is a wrapper around `unlink`), but since the current process hasn't called `close()` yet, it can. read and write to it, being sure it will be dumped at the end of the execution.
+Once unlinked, it becomes invisible to everyone, as if it were deleted (as a matter of fact, `rm` is a wrapper around `unlink`), but since the current process hasn't called `close()` yet, it can read and write to it, being sure it will be dumped at the end of the execution.
 
 > When is a file completely deleted?
 

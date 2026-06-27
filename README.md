@@ -53,3 +53,13 @@ Let's do our first lab
         - [X] Clean it up!
 
 - [X] [Lecture question (a random question)](./LEC-01/sq1.txt)
+
+
+## Lecture 2
+
+- [X] [C Slides](https://pdos.csail.mit.edu/6.828/2021/lec/6S081-Intro-to-C-Fa21.pdf)
+- [X] [gdb](https://pdos.csail.mit.edu/6.828/2021/lec/gdb_slides.pdf)
+- [X] The C Book, 2.9: Bitwise operations
+    - [X] [Exercise 2.6: setbits](./LEC-02/EXERCISES/2.6.c)
+    - [X] [Exercise 2.7: invert](./LEC-02/EXERCISES/2.7.c)
+    - [X] [Exercise 2.8: rightrot](./LEC-02/EXERCISES/2.8.c)

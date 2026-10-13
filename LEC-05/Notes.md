@@ -74,3 +74,10 @@ parent:
 ```
 
 before parent calls child, parent's `ra` is set to the next line within `godfather`, afterall, it's where cpu should get back to after finishing `parent`. But when `parent` calls `child`, this `call` replaces `ra` with the next line of the `parent`, cuz that's where cpu should return to after finishing child. So that's why we need to backup `ra` before calling `child`.
+
+## Video Notes
+
+- `MMU` is a block of Hardware
+- All addresses below `PHYSTOP` are directly mapped to the same address in physical memory
+- Every process has a corresponding kernel stack
+- After setting up the page table, even the `PC` will be translated to a new address. That's why we a use an identity mapping for `kernel text` so that page tables translate to the same thing as before

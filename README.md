@@ -85,12 +85,12 @@ Honestly, didn't get much out of it. It was kinda hard to grasp the whys behinds
 
 ## Lecture 5
 
-- [ ] [GDB PDF](https://pdos.csail.mit.edu/6.828/2021/lec/gdb_slides.pdf)
-- [ ] [RISC-V Calling Conventions](https://pdos.csail.mit.edu/6.828/2021/readings/riscv-calling.pdf) or [here](https://riscv.org/wp-content/uploads/2024/12/riscv-calling.pdf)
-- [ ] [Video](https://youtu.be/s-Z5t_yTyTM)
+- [X] [GDB PDF](https://pdos.csail.mit.edu/6.828/2021/lec/gdb_slides.pdf)
+- [X] [RISC-V Calling Conventions](https://pdos.csail.mit.edu/6.828/2021/readings/riscv-calling.pdf) or [here](https://riscv.org/wp-content/uploads/2024/12/riscv-calling.pdf)
+- [X] [Video](https://youtu.be/s-Z5t_yTyTM)
   - [My Notes](./LEC-05/Notes.md) 
 
 - [ ] [Lab 3: pgtbl](https://pdos.csail.mit.edu/6.828/2021/labs/pgtbl.html)
-  - [ ] Speed up system calls (easy)
-  - [ ] Print a page table (easy)
+  - [X] Speed up system calls (easy)
+  - [X] Print a page table (easy)
   - [ ] Detecting which pages have been accessed (hard)

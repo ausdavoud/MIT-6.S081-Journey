@@ -1,9 +1,6 @@
 <div align="center">
 
-# Journey
-
-**Working through MIT 6.S081, *Operating System Engineering* (Fall 2021), on my own.**<br>
-xv6 on RISC-V, one lecture and one lab at a time.
+<img alt="Journey: MIT 6.S081, Operating System Engineering, Fall 2021, on my own. xv6 on RISC-V, one lecture and one lab at a time. Beside the title, the three-level page table xv6 printed at boot in Lab 3: satp at the root, then entries 0 and 255, leading to code, guard and stack pages and to the usyscall, trapframe and trampoline pages" src="docs/header.png">
 
 <br>
 
